@@ -8,3 +8,4 @@ un blog increible para el curso de git y github de platzi
 * Todos los comandos de git
 * El flujo de trabajo real de un proyecto
 * Las buenas practicas
+* Creado por el increible estudiante de Platzi Robertron
