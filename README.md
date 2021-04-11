@@ -9,3 +9,4 @@ un blog increible para el curso de git y github de platzi
 * El flujo de trabajo real de un proyecto
 * Las buenas practicas
 * Creado por el increible estudiante de Platzi Robertron
+* Incluye tutoriales para Windows Linux y Mac
