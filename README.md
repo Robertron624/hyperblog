@@ -10,3 +10,4 @@ un blog increible para el curso de git y github de platzi
 * Las buenas practicas
 * Creado por el increible estudiante de Platzi Robertron
 * Incluye tutoriales para Windows Linux y Mac
+* Disponible para todas las edades
